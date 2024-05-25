@@ -7,21 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Lorem ipsum [link name](https://www.github.com)
+I'm a Computer Science PhD Student at UC, San Diego.  My advisor is [Sanjoy Dasgupta]("https://cseweb.ucsd.edu/~dasgupta/"). I obtained my MS in Computer Science back in 2022 from UCSD.  Before that, I graduated from UC Davis with a BS in Mathematical and Scientific Computation and a BA in Philosophy with a minor in Computer Science.
 
-## Papers
+**Research areas**: machine learning theory, weak supervision, unsupervised/semi-supervised learning
 
-*Reliable Programmatic Weak Supervision with Confidence Intervals for Label Probabilities* <br>
-Ver&oacute;nica &Aacute;lvarez, Santiago Mazuelas, Steven An, Sanjoy Dasgupta <br>
-in submission at *Conference on Neural Information Processing Systems*, 2024
-
-*Convergence Behavior of an Adversarial Weak Supervision Method* <br>
-Steven An, Sanjoy Dasgupta <br>
-*Conference on Uncertainty in Artificial Intelligence*, 2024
-
-## Teaching
-
-I was a teaching assistant for these courses at UCSD:
-
-- CSE103, Probability and Statistics, [Fall 2020]
-- CSE151A, Machine Learning: Learning Algorithms, [Winter 2023, Fall 2023]
+My research interests mostly involve ensemble methods -- combining rules-of-thumb to create a classifier better than any specific part.  Specifically, I'm interested in the setting where (i) the rules are weakly correlated with the ground truth (ii) there is no underlying generative process tying the rule predictions to the ground truth (iii) there is little to no labeled ata.  My focus is on adversarial methods and showing that they are viable from both theoretical and empirical viewpoints.
