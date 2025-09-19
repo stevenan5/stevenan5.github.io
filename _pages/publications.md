@@ -11,10 +11,14 @@ author_profile: true
 
 {% include base_path %}
 
+*Statistical Analysis of an Adversarial Bayesian Weak Supervision Method* <br>
+**Steven An**
+forthcoming in *Conference on Neural Information Processing Systems*, 2025
+
 *Reliable Programmatic Weak Supervision with Confidence Intervals for Label Probabilities* <br>
-Ver&oacute;nica &Aacute;lvarez, Santiago Mazuelas, Steven An, Sanjoy Dasgupta <br>
-in submission at *Conference on Neural Information Processing Systems*, 2024
+Ver&oacute;nica &Aacute;lvarez, Santiago Mazuelas, **Steven An**, Sanjoy Dasgupta <br>
+IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2025
 
 *Convergence Behavior of an Adversarial Weak Supervision Method* <br>
-Steven An, Sanjoy Dasgupta <br>
+**Steven An**, Sanjoy Dasgupta <br>
 *Conference on Uncertainty in Artificial Intelligence*, 2024
