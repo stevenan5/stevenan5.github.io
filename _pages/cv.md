@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-CV coming soon!
+[Click me]{/files/steven_an_cv_sept_2025.pdf}
