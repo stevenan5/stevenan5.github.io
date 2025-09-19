@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 
 *Statistical Analysis of an Adversarial Bayesian Weak Supervision Method* <br>
-**Steven An**
+**Steven An** <br>
 forthcoming in *Conference on Neural Information Processing Systems*, 2025
 
 *Reliable Programmatic Weak Supervision with Confidence Intervals for Label Probabilities* <br>
