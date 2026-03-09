@@ -13,7 +13,7 @@ author_profile: true
 
 *Statistical Analysis of an Adversarial Bayesian Weak Supervision Method* <br>
 **Steven An** <br>
-forthcoming in *Conference on Neural Information Processing Systems*, 2025
+*Conference on Neural Information Processing Systems*, 2025
 
 *Reliable Programmatic Weak Supervision with Confidence Intervals for Label Probabilities* <br>
 Ver&oacute;nica &Aacute;lvarez, Santiago Mazuelas, **Steven An**, Sanjoy Dasgupta <br>
