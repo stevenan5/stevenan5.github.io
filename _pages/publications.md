@@ -11,6 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
+*When and How Often is Weighted Majority Vote Optimal Under Log Loss?* <br>
+**Steven An**, Sanjoy Dasgupta <br>
+*Conference on Uncertainty in Artificial Intelligence*, 2026
+
 *Statistical Analysis of an Adversarial Bayesian Weak Supervision Method* <br>
 **Steven An** <br>
 *Conference on Neural Information Processing Systems*, 2025
